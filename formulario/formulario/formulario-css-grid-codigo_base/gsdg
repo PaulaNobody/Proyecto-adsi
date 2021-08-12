@@ -1,0 +1,8 @@
+<nav class="nav">   
+        <a href="paginaprincipal.html">Inicio</a>
+        <a href="contactanos.html"> Contactanos </a>
+        <a href="seccion1.html"> Aretes </a>
+        <a href="seccion2.html"> Collares </a>
+        <a href="seccion4.html"> Pulceras</a>
+        <a href="seccion3.html"> Anillos </a>
+        </nav>
